@@ -2,7 +2,7 @@
 
 This amazing Blog!
 
-##The Git and Github course is fine.
+## The Git and Github course is fine.
 >person
 Here it was seen
 * All Git commands
