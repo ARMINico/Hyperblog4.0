@@ -3,7 +3,7 @@
 This amazing Blog!
 
 > The Git and Github course is fine.
-> person
+> * person
 ## Here it was seen
 * All Git commands
 * The workflow in Github
