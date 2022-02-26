@@ -2,9 +2,9 @@
 
 This amazing Blog!
 
-## The Git and Github course is fine.
->person
-Here it was seen
+> The Git and Github course is fine.
+> person
+## Here it was seen
 * All Git commands
 * The workflow in Github
 * The real love for good practices
